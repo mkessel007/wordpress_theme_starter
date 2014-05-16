@@ -1,0 +1,28 @@
+@import  
+	"reset",
+	"bourbon/bourbon",
+	"variables", 
+	"popup",  
+	"mixins",
+	"patterns",
+	"typography",
+	"flexembed",
+	"navigation",
+	"post",
+	"page",
+	"icons",
+	"slider",
+	"products";
+
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+html, body {
+	height: 100%;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+

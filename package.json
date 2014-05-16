@@ -1,0 +1,34 @@
+{
+  "name": "vitruvi",
+  "version": "0.0.0",
+  "description": "vitruvi.com",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:civilization/nbbx.git"
+  },
+  "author": "CIVILIZATION",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/civilization/vitruvi",
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-rename": "~1.2.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-livereload": "~1.2.0",
+    "gulp-autoprefixer": "0.0.6",
+    "gulp-jshint": "~1.5.3",
+    "gulp-sass": "~0.7.1",
+    "gulp-coffee": "~1.4.1",
+    "gulp-util": "~2.2.14",
+    "jshint-stylish": "~0.1.5",
+    "gulp-svg-sprites": "0.0.6",
+    "gulp-raster": "0.0.2"
+  }
+}
